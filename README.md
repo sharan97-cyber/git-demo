@@ -1,3 +1,3 @@
 # git-demo
 
-Added a new line
+Deleted this new line
