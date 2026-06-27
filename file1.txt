@@ -1,6 +1,1 @@
-created a new file and pushing the changes to remote repo
-
-Adding a new line
-Adding another line`
-adding a new line
-
+Git concepts...
